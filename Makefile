@@ -13,7 +13,7 @@ PKG_RELEASE:=2
 
 PKG_SOURCE:=release_$(PKG_VERSION).tar.gz
 PKG_SOURCE_URL:=https://github.com/siicosmos/freeradius-server/archive
-PKG_HASH:=b2014372948a92f86cfe2cf43c58ef47921c03af05666eb9d6416bdc6eeaedc2
+PKG_HASH:=7432f7e69404b3c6578660e9e67fe9dc0ec37d3e8a84d93d999d3177173b94cf # cmd: sha256sum *.tar.gz
 
 PKG_MAINTAINER:=
 PKG_LICENSE:=GPL-2.0
